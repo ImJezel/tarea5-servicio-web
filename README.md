@@ -2,6 +2,8 @@
 
 Programación WEB – ITLA (2026-C-003)
 
+**Estudiante:** Jezel Erislander Pujols Batista · **Matrícula:** 2025-2067 · **Carrera:** Desarrollo de Software
+
 Servicio web con Express (Node.js) que lista y almacena contactos usando el servicio `http://www.raydelto.org/agenda.php`.
 
 ```bash
